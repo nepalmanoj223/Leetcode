@@ -19,7 +19,7 @@ public class Leetcode35 {
             }
         }
         
-        return start;
+        return start;//this because when the while loop is viaoleted the last becomes the best possible index for missing integer value. hehe
     }
 }
 }
